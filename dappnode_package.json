@@ -1,7 +1,7 @@
 {
   "name": "etc-core-geth.public.dappnode.eth",
   "version": "0.1.0",
-  "upstreamVersion": "version-1.12.9",
+  "upstreamVersion": "v1.12.9",
   "upstreamRepo": "etclabscore/core-geth",
   "upstreamArg": "UPSTREAM_VERSION",
   "shortDescription": "Core-geth client on ETC Classic by ETCCooperative",
