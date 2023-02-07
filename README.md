@@ -1,4 +1,4 @@
-# Core-Geth DAppNode package for ETC Mainnet
+# Core-geth client on Ethereum Classic for DAppNode by ETC Cooperative
 
 [![DAppNodeStore Available](https://img.shields.io/badge/DAppNodeStore-Available-brightgreen.svg)](http://my.dappnode/#/installer/etc-core-geth.public.dappnode.eth)
 
