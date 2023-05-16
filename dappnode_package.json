@@ -1,6 +1,6 @@
 {
   "name": "etc-core-geth.public.dappnode.eth",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "upstreamVersion": "v1.12.11",
   "upstreamRepo": "etclabscore/core-geth",
   "upstreamArg": "UPSTREAM_VERSION",
