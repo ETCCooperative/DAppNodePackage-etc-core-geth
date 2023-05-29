@@ -5,7 +5,7 @@ services:
     build:
       context: .
       args:
-        UPSTREAM_VERSION: v1.12.11
+        UPSTREAM_VERSION: v1.12.12
     volumes:
       - "data:/root/.ethereum"
     environment:
