@@ -6,6 +6,7 @@ ENTRYPOINT []
 CMD geth \
     --classic \
     --port=$P2P_PORT \
+    --identity=DAppNode \
     --http \
     --http.addr=0.0.0.0 \
     --http.corsdomain="*" \
